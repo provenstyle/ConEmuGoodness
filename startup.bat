@@ -1,0 +1,1 @@
+start conemu /cmdlist ^> C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe  -new_console:a -new_console:d:c:\watchguard\vermillion\vermillion -cur_console:i -cur_console:t:poshgit ^|^|^| C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe  -new_console:s1T50H -new_console:d:c:\watchguard\vermillion\vermillion -cur_console:i -cur_console:t:poshgit
